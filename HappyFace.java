@@ -1,10 +1,10 @@
 /*
  * Alex Bravo
- * CS A170
- * July 1,2022
- * 
- * Excercise/Exam 1
+ 
+ This Java Code Creates a smiley face
  */
+
+
 
 public class HappyFace
 {
