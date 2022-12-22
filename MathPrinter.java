@@ -1,9 +1,7 @@
 /*
  * Alex Bravo
- * CS A170
- * June 30, 2022
- * 
- * Exercise/Exam 1
+ 
+Sum and Product of 1,3,5,7,9
  */
 
 public class MathPrinter
